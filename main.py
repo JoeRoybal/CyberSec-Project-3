@@ -12,12 +12,12 @@ def getUser():
 
 
 def getPass():
-    return "you@southwestern.edu"
+    return "roybalj@southwestern.edu"
 
 
 def main():
     print("Enter FTP IP address:")
-    target = input()
+    target = raw_input()
     ftp = FTP(target)
     try:
         ftp.login(getUser(), getPass())
