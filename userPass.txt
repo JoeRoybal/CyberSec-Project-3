@@ -1,0 +1,6 @@
+administrator:p@ssw0rd 
+admin:12345 
+root:toor 
+guest:guest 
+anonymous:roybalj@southwestern.edu 
+root:secret
